@@ -1,0 +1,25 @@
+Outline - Apresentação
+
+Workshop: Construa seu Arduino!
+
+- O que é "Arduino"?
+    - Como empresa
+    - Como linha de produtos
+    - Como plataforma de software
+    - Como comunidade
+
+- Características básicas de um Arduino
+- Arduino UNO: o arduino de baunilha
+    - Especificações
+    - Diagrama de blocos
+        - Alimentação
+        - Relógio
+        - Conversor USB<->Serial
+    - Carregamento de código
+        - Reset
+        - Bootloader
+    
+- O que vamos construir?
+- Características e limitações
+    - Justificativa: porque assim e não assado?
+    - 
